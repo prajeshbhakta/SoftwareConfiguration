@@ -1,0 +1,10 @@
+#Pradhananga, Prajesh |  prajeshpradhananga@gmail.com  |  04/23/2013
+Automated Deployment Process is set up to use below three files which should have been copied to target folder during installation. This process can be used to deploy IBM Maximo application (V7) in clustered environment standalone JVM’s.
+
+1. AutoDeployment.properties
+2. AutoDeployment.py
+3. AutoDeployment.sh
+
+The only files that may be needed to be configured for deployment are the AutoDeployment.properties and AutoDeployment.sh. AutoDeployment.py should not be altered.
+Step 1. Configure the AutoDeployment.properties file and AutoDeployment.sh
+Step 2. Change directory to the where the files are then execute sh AutoDeployment.sh
