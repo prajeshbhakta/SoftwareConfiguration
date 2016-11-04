@@ -93,10 +93,3 @@ if (ApplicationPath1!='None' or ApplicationPath2!='None' or ApplicationPath3!='N
 else:
  print 'Not Enough Information Provided'
 sys.exit()
-
-
-
-
-
-
-
